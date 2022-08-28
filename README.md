@@ -18,3 +18,17 @@
             <li> <strong>User:</strong> You can delete and create a user, a user only can have one role   </li>
             <li> <strong>Role:</strong> You can delete, create and assing a role to the user   </li>
         </ol>
+
+## Database schema
+![alt text](https://github.com/lezcanodev/Simple-inventory-managent-system-Laravel/blob/master/screenshots/1.png?raw=true)
+
+## Screenshots
+
+<div>
+    <img src="https://github.com/lezcanodev/Simple-inventory-managent-system-Laravel/blob/master/screenshots/7.png?raw=true" width="500" />
+    <img src="https://github.com/lezcanodev/Simple-inventory-managent-system-Laravel/blob/master/screenshots/3.png?raw=true" width="500" />
+    <img src="https://github.com/lezcanodev/Simple-inventory-managent-system-Laravel/blob/master/screenshots/5.png?raw=true" width="500" />
+    <img src="https://github.com/lezcanodev/Simple-inventory-managent-system-Laravel/blob/master/screenshots/4.png?raw=true" width="500" />
+    <img src="https://github.com/lezcanodev/Simple-inventory-managent-system-Laravel/blob/master/screenshots/2.png?raw=true" width="500" />
+    <img src="https://github.com/lezcanodev/Simple-inventory-managent-system-Laravel/blob/master/screenshots/6.png?raw=true" width="500" />
+</div>
